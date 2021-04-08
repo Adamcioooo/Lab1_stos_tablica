@@ -1,6 +1,6 @@
 #ifndef STOS_HH
 #define STOS_HH
-#define ZAKRES 10000				//Zakres tablicy
+#define ZAKRES 110000				//Zakres tablicy
 
 
 template <typename T>
